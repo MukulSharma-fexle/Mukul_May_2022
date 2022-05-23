@@ -7,6 +7,7 @@ public class MYSampleApexClass{				//class definition and body
 	public static Integer variable2 =' ';	//class Member variable
 	public static Integer myString3 =' ';	//class Member variable
 	public static Integer myString2 =' ';	//class Member variable
+	public static Integer myString8 =' ';	//class Member variable
 }
 
 
@@ -18,4 +19,5 @@ public static Integer getCalculatedvalue () {
 	myValue=myValue+10;
 	tetsing going on;
 	return myValue;
+	return mystring;
 }
