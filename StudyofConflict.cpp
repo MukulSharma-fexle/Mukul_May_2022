@@ -8,7 +8,12 @@ int main()
 	cout <<"Hello !\n";
 	cout<<"I am mukul sharma\n";
 	cout<<"I play";
+
 	cout<<"I read";
 	cout<<"I Sleep";
+
+	cout<<"I eat";
+	cout<<"I DANCE";
+
 	return 0;
 }
